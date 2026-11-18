@@ -13,10 +13,13 @@
 		],
 		"2.1" : [
 			"Fixed typos in English translation"
+		],
+		"2.2" : [
+			"Added Pavilion mod town support"
 		]
 	},
 	"modType" : "Translation",
-	"softDepends" : [ "hota", "ruins-town", "cathedral-town" ],
+	"softDepends" : [ "hota", "ruins-town", "cathedral-town", "new-pavilion" ],
 	"english" : {
 		"translations" : [
 			"config/buildingnames/game.json"
