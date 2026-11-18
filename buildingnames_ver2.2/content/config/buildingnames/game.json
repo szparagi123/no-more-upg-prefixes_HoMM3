@@ -196,5 +196,19 @@
 	"building.cathedral-town.cathedral.dwellingUpLvl6.description" : "The Order of Dark Templars allows you to recruit Dark Templars.",
 	"building.cathedral-town.cathedral.dwellingUpLvl6.name" : "Order of Dark Templars",
 	"building.cathedral-town.cathedral.dwellingUpLvl7.description" : "The Shrine of Acumen allows you to recruit Chasteners.",
-	"building.cathedral-town.cathedral.dwellingUpLvl7.name" : "Shrine of Acumen"
+	"building.cathedral-town.cathedral.dwellingUpLvl7.name" : "Shrine of Acumen",
+	"building.new-pavilion.pavilion.dwellingUpLvl1.description" : "The Community allows you to recruit Overseers.",
+	"building.new-pavilion.pavilion.dwellingUpLvl1.name" : "Communitu",
+	"building.new-pavilion.pavilion.dwellingUpLvl2.description" : "The Wadjet Lairs allow you to recruit Venomous Wadjets.",
+	"building.new-pavilion.pavilion.dwellingUpLvl2.name" : "Wadjet Lairs",
+	"building.new-pavilion.pavilion.dwellingUpLvl3.description" : "The Desert Stable allows you to recruit Desert Warriors.",
+	"building.new-pavilion.pavilion.dwellingUpLvl3.name" : "Desert Stable",
+	"building.new-pavilion.pavilion.dwellingUpLvl4.description" : "The Monolith of Ra allows you to recruit High Priestesses.",
+	"building.new-pavilion.pavilion.dwellingUpLvl4.name" : "Monolith of Ra",
+	"building.new-pavilion.pavilion.dwellingUpLvl5.description" : "The Cave of Terror allows you to recruit Devouring Ammuts.",
+	"building.new-pavilion.pavilion.dwellingUpLvl5.name" : "Cave of Terror",
+	"building.new-pavilion.pavilion.dwellingUpLvl6.description" : "The Oracle Cantonment allow you to recruit Sphinx Oracles.",
+	"building.new-pavilion.pavilion.dwellingUpLvl6.name" : "Oracle Cantonment",
+	"building.new-pavilion.pavilion.dwellingUpLvl7.description" : "Desert Mausoleum.",
+	"building.new-pavilion.pavilion.dwellingUpLvl7.name" : "Desert Mausoleum"
 }
