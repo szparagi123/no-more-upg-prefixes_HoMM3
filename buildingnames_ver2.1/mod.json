@@ -13,6 +13,9 @@
 		],
 		"2.1" : [
 			"Fixed typos in English translation"
+		],
+		"2.2" : [
+			"Added Pavilion mod town support"
 		]
 	},
 	"modType" : "Translation",
